@@ -62,14 +62,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreykansara&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreykansara&layout=compact&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=shreykansara&hide_border=true&background=00000000&fire=2D2F92&currStreakLabel=2D2F92" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreykansara&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreykansara&theme=flat&no-frame=true&column=7&margin-w=8" />
+  <img src="https://img.shields.io/github/followers/shreykansara?style=for-the-badge&color=2D2F92&labelColor=000000&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshreykansara&label=Public%20Repos&query=%24.public_repos&color=2D2F92&labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2D2F92&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2D2F92&height=100&section=footer" width="100%"/>
