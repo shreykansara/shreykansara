@@ -28,32 +28,35 @@
 
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
 <h3 align="center">🏆 Achievements</h3>
 <p align="center">
-🥉 3rd — BITSOM Hackathon &nbsp;|&nbsp; 📄 Paper Accepted — NMITCON 2026 &nbsp;|&nbsp; 🥈 Runner-Up — Ship Happens 2.0 &nbsp;|&nbsp; 📜 Patent Filed — Embedded Systems
+  🥉 3rd — BITSOM Hackathon<br/>
+  📄 Paper Accepted — NMITCON 2026<br/>
+  🥈 Runner-Up — Ship Happens 2.0<br/>
+  📜 Patent Filed — Embedded Systems
 </p>
 
 <h3 align="center">📜 Certifications</h3>
 <p align="center">
-🎓 Product Management with Generative & Agentic AI — <i>BITSOM</i> &nbsp;•&nbsp;
-🗄️ DBMS (I & II) — <i>Infosys Springboard</i> &nbsp;•&nbsp;
-☁️ OCI 2025 Generative AI Professional — <i>Oracle</i>
+  🎓 Product Management with Generative & Agentic AI — <i>BITSOM</i><br/>
+  🗄️ DBMS (I & II) — <i>Infosys Springboard</i><br/>
+  ☁️ OCI 2025 Generative AI Professional — <i>Oracle</i>
 </p>
 
 ---
