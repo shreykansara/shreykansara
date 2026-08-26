@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2D2F92&height=180&section=header&text=Shrey%20Kansara&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Full-Stack%20%7C%20Product&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2D2F92&height=180&section=header&text=Shrey%20Kansara&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Full-Stack%20%7C%20Product%20Management&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2D2F92&center=true&vCenter=true&width=500&lines=Neural+Nets+%26+Product+Orchestration;ConvNeXt+%7C+PyTorch+%7C+OpenCV;Patent-Filed+Embedded+Systems" alt="Typing SVG" />
