@@ -85,23 +85,6 @@ I care about building things that are technically rigorous **and** actually depl
 
 <br/>
 
-### 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Duration | Score |
-|---|---|---|---|
-| **B.Tech, Computer Science & Engineering**<br/>Specialization: AI & Machine Learning | Lovely Professional University | Aug 2024 – Present | 9.17 CGPA |
-| 12th Grade (Science) | Holy Writ High School & Jr. College | Jun 2023 – May 2024 | 89.4% |
-
-**Focus areas:** Full-Stack Web Development · AI & Deep Learning (Computer Vision) · Automation & Process Engineering · Embedded Systems & Firmware (C++/Arduino) · Operating Systems
-
-**Key coursework:** Deep Learning (CNNs, Transformers) · Data Structures & Algorithms · Database Management Systems · Advanced Computer Vision · Operating Systems & Shells · Computer Network Engineering
-
-</div>
-
-<br/>
-
 ### 🚀 Featured Projects
 
 <details open>
@@ -187,7 +170,7 @@ Python Fundamentals
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub & LeetCode Stats
 
 <div align="center">
 
@@ -199,8 +182,42 @@ Python Fundamentals
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shreykansara&theme=react-dark&hide_border=true&bg_color=00000000&color=A9B4FF&line=A9B4FF&point=FFFFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shreykansara&theme=minimal&hide_border=true&bg_color=00000000&color=2D2F92&line=2D2F92&point=2D2F92" />
+  <img alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shreykansara&theme=minimal&hide_border=true&bg_color=00000000&color=2D2F92&line=2D2F92&point=2D2F92" width="100%"/>
+</picture>
+
+<br/>
+
 ![Followers](https://img.shields.io/github/followers/shreykansara?style=for-the-badge&color=2D2F92&labelColor=000000&logo=github&logoColor=white)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshreykansara&label=Public%20Repos&query=%24.public_repos&color=2D2F92&labelColor=000000&style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/shreykansara?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/shreykansara?theme=light&font=Fira%20Code&ext=heatmap" />
+  <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/shreykansara?theme=light&font=Fira%20Code&ext=heatmap" />
+</picture>
+
+</div>
+
+<br/>
+
+### 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Duration | Score |
+|---|---|---|---|
+| **B.Tech, Computer Science & Engineering**<br/>Specialization: AI & Machine Learning | Lovely Professional University | Aug 2024 – Present | 9.17 CGPA |
+| 12th Grade (Science) | Holy Writ High School & Jr. College | Jun 2023 – May 2024 | 89.4% |
+
+**Focus areas:** Full-Stack Web Development · AI & Deep Learning (Computer Vision) · Automation & Process Engineering · Embedded Systems & Firmware (C++/Arduino) · Operating Systems
+
+**Key coursework:** Deep Learning (CNNs, Transformers) · Data Structures & Algorithms · Database Management Systems · Advanced Computer Vision · Operating Systems & Shells · Computer Network Engineering
 
 </div>
 
